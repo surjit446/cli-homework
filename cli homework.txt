@@ -1,0 +1,21 @@
+Microsoft Windows [Version 10.0.18363.1379]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\harry>mkdir development
+
+C:\Users\harry>cd development
+
+C:\Users\harry\development>mkdir code
+
+C:\Users\harry\development>cd code
+
+C:\Users\harry\development\code>surjit
+'surjit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\harry\development\code>mkdir surjit
+
+C:\Users\harry\development\code>cd surjit
+
+C:\Users\harry\development\code\surjit>
+
